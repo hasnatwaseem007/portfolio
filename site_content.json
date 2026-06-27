@@ -1,0 +1,291 @@
+{
+    "profile": {
+        "name": "Hasnat Waseem",
+        "title": "AI Developer",
+        "hero_title": "I build sharp web apps & automation.",
+        "hero_subtitle": "Flask, Python & clean UI — shipped fast, built to last.",
+        "location": "Lahore",
+        "location_full": "Lahore, Pakistan",
+        "avatar": "/static/images/avatar.jpeg",
+        "github_user": "HASNATWASEEM"
+    },
+    "contact": {
+        "email": "hasnatwaseem10fw@gmail.com",
+        "whatsapp": "03006944551",
+        "github": "https://github.com/HASNATWASEEM",
+        "cv_url": "/static/uploads/cv.pdf"
+    },
+    "sections": {
+        "about": {
+            "label": "About",
+            "title": "What I do",
+            "enabled": true
+        },
+        "skills": {
+            "label": "Skills",
+            "title": "Stack",
+            "enabled": true
+        },
+        "projects": {
+            "label": "Work",
+            "title": "Projects",
+            "enabled": true
+        },
+        "experience": {
+            "label": "Path",
+            "title": "Experience",
+            "enabled": true
+        },
+        "contact": {
+            "label": "Contact",
+            "title": "Hi",
+            "enabled": true
+        }
+    },
+    "about": [
+        {
+            "id": "a1",
+            "title": "Web",
+            "desc": "Fast, responsive interfaces.",
+            "visible": true
+        },
+        {
+            "id": "a2",
+            "title": "AI",
+            "desc": "Smart tools that solve problems.",
+            "visible": true
+        },
+        {
+            "id": "a3",
+            "title": "Automation",
+            "desc": "Less manual work, more output.",
+            "visible": true
+        }
+    ],
+    "skills": [
+        {
+            "id": "s1",
+            "name": "HTML / CSS",
+            "level": 95,
+            "visible": true
+        },
+        {
+            "id": "s2",
+            "name": "JavaScript",
+            "level": 80,
+            "visible": true
+        },
+        {
+            "id": "s3",
+            "name": "Python",
+            "level": 92,
+            "visible": true
+        },
+        {
+            "id": "s4",
+            "name": "Flask",
+            "level": 88,
+            "visible": true
+        },
+        {
+            "id": "s5",
+            "name": "Machine Learning",
+            "level": 78,
+            "visible": true
+        }
+    ],
+    "skill_tags": [
+        {
+            "id": "t1",
+            "name": "Pandas",
+            "visible": true
+        },
+        {
+            "id": "t2",
+            "name": "NumPy",
+            "visible": true
+        },
+        {
+            "id": "t3",
+            "name": "REST APIs",
+            "visible": true
+        },
+        {
+            "id": "t4",
+            "name": "Git",
+            "visible": true
+        },
+        {
+            "id": "t5",
+            "name": "Responsive Design",
+            "visible": true
+        },
+        {
+            "id": "t6",
+            "name": "SQL",
+            "visible": true
+        }
+    ],
+    "projects": [
+        {
+            "id": "p1",
+            "title": "Landing Page",
+            "category": "frontend",
+            "desc": "Responsive HTML/CSS landing page with modern layout and animations.",
+            "details": "A fully responsive landing page built with semantic HTML and modern CSS. Features smooth scroll animations, mobile-first layout, and optimized performance.",
+            "img": "/static/images/landing-page.png",
+            "demo_url": "",
+            "github_url": "",
+            "visible": true
+        },
+        {
+            "id": "p2",
+            "title": "Portfolio Website",
+            "category": "frontend",
+            "desc": "Professional portfolio with dark/light themes and responsive layout.",
+            "details": "A full-stack portfolio with admin panel, contact form, theme switching, and particle background. Built with Flask and modern CSS.",
+            "img": "/static/images/portfolio-website.png",
+            "demo_url": "",
+            "github_url": "",
+            "visible": true
+        },
+        {
+            "id": "p3",
+            "title": "Flask Task Manager",
+            "category": "backend",
+            "desc": "Task management system built with Flask and clean dashboard design.",
+            "details": "Productivity app for managing tasks and workflows with a clean dashboard, CRUD operations, and user-friendly interface.",
+            "img": "/static/images/flask-task-manager.png",
+            "demo_url": "",
+            "github_url": "",
+            "visible": true
+        },
+        {
+            "id": "p4",
+            "title": "Admin Dashboard",
+            "category": "backend",
+            "desc": "Message management admin panel with login and search.",
+            "details": "Secure admin panel with session auth, message inbox, read/unread status, and content management for the portfolio.",
+            "img": "/static/images/admin-dashboard.png",
+            "demo_url": "",
+            "github_url": "",
+            "visible": true
+        },
+        {
+            "id": "p5",
+            "title": "ML Predictor",
+            "category": "ml",
+            "desc": "Machine learning prediction using Pandas, NumPy, and model logic.",
+            "details": "Data-driven prediction tool using scikit-learn, Pandas for preprocessing, and a clean API for predictions.",
+            "img": "/static/images/ml-predictor.png",
+            "demo_url": "",
+            "github_url": "",
+            "visible": true
+        },
+        {
+            "id": "p6",
+            "title": "Automation Tool",
+            "category": "ml",
+            "desc": "Python automation tool to improve workflow and reduce manual tasks.",
+            "details": "Scripts and utilities that automate repetitive file processing, data entry, and reporting tasks.",
+            "img": "/static/images/automation-tool.png",
+            "demo_url": "",
+            "github_url": "",
+            "visible": true
+        }
+    ],
+    "experience": [
+        {
+            "id": "e1",
+            "year": "2024 — Present",
+            "role": "AI Developer & Student",
+            "company": "Freelance / Self-directed",
+            "desc": "Building web apps, Flask backends, and ML-powered automation tools.",
+            "visible": true
+        },
+        {
+            "id": "e2",
+            "year": "2023 — 2024",
+            "role": "Web Developer",
+            "company": "Personal Projects",
+            "desc": "Developed responsive portfolios, landing pages, and admin dashboards.",
+            "visible": true
+        },
+        {
+            "id": "e3",
+            "year": "2022 — 2023",
+            "role": "Python Developer",
+            "company": "Learning & Practice",
+            "desc": "Focused on Python, Pandas, and workflow automation.",
+            "visible": true
+        },
+        {
+            "id": "169a37e57d0e",
+            "year": "2024",
+            "role": "Automation Expert",
+            "company": "Freelance/Self Directed",
+            "desc": "Develop different types of automations in which Data scarping or Automate works are include",
+            "visible": true
+        }
+    ],
+    "settings": {
+        "nav": {
+            "home": true,
+            "about": true,
+            "skills": true,
+            "projects": true,
+            "experience": true,
+            "contact": true
+        },
+        "hero": {
+            "status_badge": true,
+            "status_text": "Open for work",
+            "typing_enabled": true,
+            "typing_prefix": "I build ",
+            "typing_strings": [
+                "Automation Tools",
+                "AI systems",
+                "Web apps",
+                "ML pipelines"
+            ],
+            "btn_primary": {
+                "enabled": true,
+                "label": "Projects",
+                "url": "#projects"
+            },
+            "btn_secondary": {
+                "enabled": true,
+                "label": "Hire me",
+                "url": "#contact"
+            },
+            "show_stats": true,
+            "show_projects_stat": true,
+            "show_visitors_stat": true,
+            "show_cv_stat": true
+        },
+        "social_rail": {
+            "enabled": true,
+            "github": true,
+            "whatsapp": true,
+            "email": true,
+            "cv": true
+        },
+        "projects_section": {
+            "filters_enabled": true,
+            "github_repos_enabled": true
+        },
+        "contact_section": {
+            "form_enabled": true,
+            "show_email_card": true,
+            "show_whatsapp_card": true,
+            "show_github_card": true,
+            "show_location_card": true
+        },
+        "footer": {
+            "enabled": true
+        },
+        "particles": {
+            "enabled": true
+        }
+    }
+}

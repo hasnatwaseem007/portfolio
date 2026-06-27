@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Duke Ross",
+        "email": "data.mining0010@gmail.com",
+        "message": "hy",
+        "read": true,
+        "id": "7cbb49ae15a9b038",
+        "created_at": "2026-06-26T13:19:15.675389+00:00"
+    },
+    {
+        "name": "hasnat waseem",
+        "email": "data.mining0010@gmail.com",
+        "message": "hello",
+        "read": true,
+        "id": "ca8cab2717b9e710",
+        "created_at": "2026-06-26T13:19:15.675389+00:00"
+    },
+    {
+        "name": "hasnat waseem",
+        "email": "data.mining0010@gmail.com",
+        "message": "hy",
+        "read": true,
+        "id": "f6ffe7094bf9b342",
+        "created_at": "2026-06-26T13:19:15.675389+00:00"
+    },
+    {
+        "id": "5b945b0c9c3e3806",
+        "name": "hasnat",
+        "email": "hahsjdb@gmail.com",
+        "message": "hy",
+        "read": true,
+        "created_at": "2026-06-26T13:58:32.751962+00:00"
+    },
+    {
+        "id": "e7c7b327af10a781",
+        "name": "Hasnat",
+        "email": "hasnat@gmail.com",
+        "message": "how are you",
+        "read": true,
+        "created_at": "2026-06-26T17:28:50.147449+00:00"
+    }
+]
